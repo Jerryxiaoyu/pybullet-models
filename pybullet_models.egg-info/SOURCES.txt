@@ -1,0 +1,6 @@
+README.md
+setup.py
+pybullet_models.egg-info/PKG-INFO
+pybullet_models.egg-info/SOURCES.txt
+pybullet_models.egg-info/dependency_links.txt
+pybullet_models.egg-info/top_level.txt
